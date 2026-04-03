@@ -1,0 +1,5 @@
+{
+  "name": "Ultra Jarvis AI",
+  "description": "A futuristic AI assistant with voice interaction, image generation, and creative modes.",
+  "requestFramePermissions": ["microphone"]
+}
